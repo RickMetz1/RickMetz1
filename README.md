@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing some coder skills to build out some Golf projects.
+- 🤔 I’m looking for suggestions and ideas on things that could help young Golfers develop their skills and grow the game.
+- 💬 Ask me about some of my ideas and collaboration opportunities
+- 📫 How to reach me: fesses-blocs-0f@icloud.com
+
 <!--
 **RickMetz1/RickMetz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
